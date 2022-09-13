@@ -1,4 +1,4 @@
-# Template: worker
+# Template: hello-worker
 
 Hello worker
 
