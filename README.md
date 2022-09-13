@@ -1,17 +1,12 @@
 # Template: worker
 
-A simple template for kick starting a Cloudflare worker project.
+Hello worker
 
 ## Setup
 
-To create a `my-project` directory using this template, run:
+To create a `hello-worker` directory using this template, run:
 
 ```sh
-$ npm init cloudflare my-project worker
-# or
-$ yarn create cloudflare my-project worker
-# or
-$ pnpm create cloudflare my-project worker
+$npm init cloudflare hello-worker worker
 ```
 
-> **Note:** Each command invokes [`create-cloudflare`](https://www.npmjs.com/package/create-cloudflare) for project creation.
